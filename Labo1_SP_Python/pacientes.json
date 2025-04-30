@@ -1,0 +1,40 @@
+{
+    "pacientes": [
+        {
+            "_Paciente__id": 1,
+            "_Paciente__nombre": "jose",
+            "_Paciente__apellido": "villegas",
+            "_Paciente__dni": "95834557",
+            "_Paciente__edad": 29,
+            "_Paciente__fecha_de_registro": "11/07/2024",
+            "_Paciente__obra_social": "apres"
+        },
+        {
+            "_Paciente__id": 2,
+            "_Paciente__nombre": "facudo",
+            "_Paciente__apellido": "perez",
+            "_Paciente__dni": "95687456",
+            "_Paciente__edad": 30,
+            "_Paciente__fecha_de_registro": "07/07/2024",
+            "_Paciente__obra_social": "swiss medical"
+        },
+        {
+            "_Paciente__id": 3,
+            "_Paciente__nombre": "pablo",
+            "_Paciente__apellido": "rodriguez",
+            "_Paciente__dni": "95874741",
+            "_Paciente__edad": 26,
+            "_Paciente__fecha_de_registro": "11/07/2024",
+            "_Paciente__obra_social": "apres"
+        },
+        {
+            "_Paciente__id": 4,
+            "_Paciente__nombre": "vanessa",
+            "_Paciente__apellido": "villegas",
+            "_Paciente__dni": "95342877",
+            "_Paciente__edad": 27,
+            "_Paciente__fecha_de_registro": "01/09/2024",
+            "_Paciente__obra_social": "apres"
+        }
+    ]
+}
